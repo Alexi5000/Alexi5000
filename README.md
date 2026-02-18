@@ -54,9 +54,6 @@
   <img src="assets/github_stats.png" alt="Alexi5000 GitHub Stats" width="90%"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alexi5000/Alexi5000/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 <img src="assets/divider_thin.png" width="100%"/>
 
