@@ -48,24 +48,9 @@
 
 <img src="assets/divider_thin.png" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alexi5000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&icon_color=D4A843&text_color=c9d1d9&ring_color=D4A843" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexi5000&theme=tokyonight&hide_border=true&background=0d1117&ring=D4A843&fire=D4A843&currStreakLabel=D4A843&sideLabels=c9d1d9&dates=555555" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexi5000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9" />
-</div>
-
-<br>
+## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/D4A843/Alexi5000)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alexi5000&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-</div>
 
 <img src="assets/divider_thin.png" width="100%"/>
 
