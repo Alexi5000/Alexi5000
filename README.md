@@ -48,9 +48,15 @@
 
 <img src="assets/divider_thin.png" width="100%"/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics & Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/D4A843/Alexi5000)
+<div align="center">
+  <img src="assets/github_stats.png" alt="Alexi5000 GitHub Stats" width="90%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alexi5000/Alexi5000/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 <img src="assets/divider_thin.png" width="100%"/>
 
