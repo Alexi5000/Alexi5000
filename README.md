@@ -26,17 +26,9 @@
 
 <img src="assets/divider_thin.png" width="100%"/>
 
-<!-- CREDENTIALS / RECOGNITION BADGES -->
+<!-- CREDENTIALS / RECOGNITION CARDS -->
 <div align="center">
-
-![9x Anthropic Claude Certified](https://img.shields.io/badge/9x%20Anthropic%20Claude%20Certified-555555?style=flat-square&logo=anthropic&logoColor=white)
-&nbsp;
-![Lovable Community Champion](https://img.shields.io/badge/Lovable%20Community%20Champion-555555?style=flat-square&logo=heart&logoColor=white)
-&nbsp;
-![Automation Vibes Co-host](https://img.shields.io/badge/Automation%20Vibes%20Co--host-555555?style=flat-square&logo=spotify&logoColor=white)
-&nbsp;
-![50+ Production Agents Shipped](https://img.shields.io/badge/50%2B%20Production%20Agents%20Shipped-555555?style=flat-square)
-
+  <img src="assets/credential_cards.png" alt="9x Anthropic Claude Certified · Lovable Community Champion · Automation Vibes Co-host · 50+ Production Agents Shipped" width="100%"/>
 </div>
 
 <img src="assets/divider_thin.png" width="100%"/>
@@ -67,11 +59,11 @@
 
 > Active products first. Live, paying, and observable.
 
-| Product | Description | Status |
-|---|---|---|
-| [**Persyn.ai**](https://persyn.ai) | AI persona content platform — build and deploy branded AI voices at scale | ![Live](https://img.shields.io/badge/live-3d3d3d?style=flat-square) |
-| [**ClawLi.ai**](https://clawli.ai) | LinkedIn CRM powered by Claude agents — relationship intelligence without the noise | ![Live](https://img.shields.io/badge/live-3d3d3d?style=flat-square) |
-| [**FigGlow.ai**](https://figglow.ai) | Carousel SaaS — design-to-publish pipeline for social content at scale | ![Live](https://img.shields.io/badge/live-3d3d3d?style=flat-square) |
+<div align="center">
+<a href="https://persyn.ai"><img src="assets/card_persyn.png" alt="Persyn.ai" width="32%"/></a>
+<a href="https://clawli.ai"><img src="assets/card_clawli.png" alt="ClawLi.ai" width="32%"/></a>
+<a href="https://figglow.ai"><img src="assets/card_figglow.png" alt="FigGlow.ai" width="32%"/></a>
+</div>
 
 **Open-source & portfolio**
 
