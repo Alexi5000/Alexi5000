@@ -1,118 +1,114 @@
-<!-- HEADER BANNER -->
 <div align="center">
-  <img src="assets/header_banner.png" alt="Alex Cinovoj — Founder & CTO, TechTide AI" width="100%"/>
+  <img src="assets/profile_hero_2026.png" alt="Alex Cinovoj and TechTide AI production agent systems" width="100%" />
 </div>
 
-<img src="assets/divider_thin.png" width="100%"/>
-
-<!-- CREDENTIAL CARDS -->
-<div align="center">
-  <img src="assets/credential_cards.png" alt="Credentials" width="100%"/>
-</div>
-
-<img src="assets/divider_thin.png" width="100%"/>
-
-<!-- TECH STACK -->
 <div align="center">
 
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-3d3d3d?style=flat-square&logo=heart&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-3d3d3d?style=flat-square&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-3d3d3d?style=flat-square&logo=n8n&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3d3d3d?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-3d3d3d?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-3d3d3d?style=flat-square&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3d3d3d?style=flat-square&logo=python&logoColor=white)
+# Alex Cinovoj
+
+**Founder, TechTide AI**
+
+Production AI agents, harnesses, observability, multimodal tools, finance systems, and research products.
+
+[LinkedIn](https://www.linkedin.com/in/alexcinovoj/) | [Website](https://alexcinovoj.dev) | [GitHub](https://github.com/Alexi5000) | [TechTide AI](https://github.com/TechTideOhio)
 
 </div>
 
-<img src="assets/divider_thin.png" width="100%"/>
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
-## Featured Production Work
+## What I Build
+
+| System layer | What it means in practice |
+| --- | --- |
+| **Agent operating systems** | Multi-agent apps with roles, workflows, memory, tools, approval gates, and operational runbooks. |
+| **Trust and observability layers** | Causal debugging, audit trails, redaction, test gates, source records, and evidence-backed outputs. |
+| **Product-grade AI apps** | Interfaces that expose the work, not just the model: video intelligence, finance agents, research copilots, and harness kits. |
+
+I build AI systems around a simple constraint: if it cannot be inspected, tested, reviewed, and shipped, it is not production yet.
 
 <div align="center">
-<a href="https://persyn.ai"><img src="assets/card_persyn.png" alt="Persyn.ai" width="32%"/></a>&nbsp;<a href="https://clawli.ai"><img src="assets/card_clawli.png" alt="ClawLi.ai" width="32%"/></a>&nbsp;<a href="https://figglow.ai"><img src="assets/card_figglow.png" alt="FigGlow.ai" width="32%"/></a>
+  <img src="assets/system_manifest_2026.png" alt="Production AI system manifest" width="100%" />
 </div>
 
-<br>
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
-**Open-source & portfolio**
+## Pinned Systems
 
-| Repo | Description |
-|---|---|
-| [**TechTide Swarm 357**](https://github.com/Alexi5000/TechTideAI2) | Multi-agent orchestration — 357 agents, one observable system |
-| [**Bri**](https://github.com/Alexi5000/Bri) | Conversational agent scaffold on Claude + MCP — video analysis, memory, transcription |
-| [**WildScape-Europe**](https://github.com/Alexi5000/WildScape-Europe) | Geospatial AI pipeline — 3D terrain, real-time weather, 500+ curated campsites |
-| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | OpenClaw debug agent — traces causes, profiles behavior, predicts failures |
-| [**ClawKeeper**](https://github.com/Alexi5000/ClawKeeper) | Autonomous AI bookkeeping — 110 agents handle invoices, reconciliation, reporting |
+<div align="center">
+  <img src="assets/pinned_repo_cards_2026.png" alt="Six pinned TechTide AI open source systems" width="100%" />
+</div>
 
-<img src="assets/divider_thin.png" width="100%"/>
+| Repo | Why I built it |
+| --- | --- |
+| [**TechTide Harness Kit**](https://github.com/TechTideOhio/techtide-harness-kit) | To package field-tested agent skills, specialist agents, trust metadata, and harness adapters into something teams can actually install and reuse. |
+| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | To give multi-agent systems causal debugging instead of flat trace viewing. It profiles behavior, scores root causes, and predicts failures before teams chase symptoms. |
+| [**Bri**](https://github.com/Alexi5000/Bri) | To turn video into durable operational knowledge: frames, transcripts, objects, conversations, SQLite persistence, FastAPI MCP, and a usable Streamlit command surface. |
+| [**Ellie**](https://github.com/Alexi5000/Ellie) | To make video analysis feel like a real agent product: upload media, ask questions, preserve timestamp context, and ship a fast Neural Noir interface. |
+| [**ClawKeeper**](https://github.com/Alexi5000/ClawKeeper) | To prove finance agents need policy gates, tenant isolation, auditability, and deterministic approval boundaries before they touch business operations. |
+| [**Fin the Finder**](https://github.com/Alexi5000/FintheFinder) | To make deep research source-grounded, reviewable, and report-ready with typed contracts, source records, citations, and human approval. |
 
-## Manifesto
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
+## Current TechTide AI Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Mastra](https://img.shields.io/badge/Mastra-111827?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)
+![Exa](https://img.shields.io/badge/Exa-111827?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![Agent Harnesses](https://img.shields.io/badge/Agent%20Harnesses-111827?style=flat-square)
+
+</div>
+
+<img src="assets/divider_thin.png" alt="" width="100%" />
+
+## Operating Principles
+
+```text
+Logs over vibes.
+Typed contracts over prompt soup.
+Human approval where risk matters.
+Shipping beats theater.
 ```
-Systems over hacks.
-Proof over potential.
-Embedded agents over flashy demos.
-```
 
-*If your automation can't show a log, it isn't automation — it's theater.*
+The work is founder-led, product-facing, and systems-first. I care about the parts that usually get hidden in demos: auth, persistence, evals, redaction, deployment paths, failure modes, and the operator experience.
 
-<img src="assets/divider_thin.png" width="100%"/>
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
-## What I'm Shipping Right Now
+## What I Am Shipping Now
 
-> Updated quarterly. No vaporware.
+| Workstream | Current focus |
+| --- | --- |
+| **TechTide Harness Kit** | Public agent skills, installable harness adapters, trust metadata, and validation paths. |
+| **OpenClaw systems** | Debugging, finance operations, policy gates, and agent control planes. |
+| **Video intelligence** | Practical media understanding through Bri and Ellie. |
+| **Research agents** | Source-grounded research workflows through Fin the Finder. |
 
-- **TechTide AI client engagements** — Unblocking Claude initiatives for teams stuck between prototype and production
-- **Persyn.ai** — Expanding persona depth and multi-channel publishing
-- **ClawLi.ai** — Agent-driven relationship scoring and outreach sequencing
-- **TechTide Swarm 357** — Open-sourcing the orchestration layer, docs in progress
-
-<img src="assets/divider_thin.png" width="100%"/>
-
-## Podcast & Community
-
-<div align="center">
-
-[![Automation Vibes](https://img.shields.io/badge/Automation%20Vibes-Co--host-555555?style=flat-square&logo=spotify&logoColor=white)](https://automationvibes.com)
-&nbsp;&nbsp;
-[![Lovable Community](https://img.shields.io/badge/Lovable%20Community-10K%2B%20edits-555555?style=flat-square&logo=heart&logoColor=white)](https://lovable.dev/community)
-
-</div>
-
-**Automation Vibes** — cutting through AI hype to talk about what actually ships. Real systems, real logs, real outcomes.
-
-**Lovable Community** — 10K+ edits in. If you're building with Lovable and hitting walls, find me there.
-
-<img src="assets/divider_thin.png" width="100%"/>
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
 ## Work With Me
 
-**Production Triage is available.**
-
-If your team has a Claude initiative that's blocked — stuck in prototype, failing in prod, or not observable enough to trust — that's the problem I solve.
-
-> Book **Production Triage** via the Featured section on my [LinkedIn profile](https://www.linkedin.com/in/alexcinovoj/).
+If your AI initiative is stuck between prototype and production, that is the work I like most: make it observable, make it reviewable, make it safe enough to ship.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alexcinovoj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://alexcinovoj.dev"><img src="https://img.shields.io/badge/alexcinovoj.dev-555555?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-&nbsp;
-<a href="https://twitter.com/alexcinovoj"><img src="https://img.shields.io/badge/@alexcinovoj-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-&nbsp;
-<a href="https://github.com/Alexi5000"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcinovoj/)
+[![Website](https://img.shields.io/badge/alexcinovoj.dev-111827?style=flat-square&logo=safari&logoColor=white)](https://alexcinovoj.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Alexi5000)
+[![TechTide AI](https://img.shields.io/badge/TechTide%20AI-0f766e?style=flat-square)](https://github.com/TechTideOhio)
 
 </div>
 
-<img src="assets/divider_thin.png" width="100%"/>
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
-<!-- FOOTER BANNER -->
 <div align="center">
-  <img src="assets/footer_banner.png" alt="50+ production agents shipped · 9x Anthropic certified · 30+ Claude Code skills" width="100%"/>
+  <sub>TechTide AI builds agent systems that ship.</sub>
 </div>
