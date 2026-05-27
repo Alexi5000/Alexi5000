@@ -103,12 +103,6 @@ If your automation cannot show a log, it is not automation — it is theater.
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
-<div align="center">
-  <img src="assets/github_stats.png" alt="GitHub contribution stats" width="100%" />
-</div>
-
-<img src="assets/divider_thin.png" alt="" width="100%" />
-
 ## Work with me
 
 **Production Triage available.** Book in the [Featured section on LinkedIn](https://www.linkedin.com/in/alexcinovoj/) or at [techtideai.io](https://techtideai.io).
