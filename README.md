@@ -52,7 +52,7 @@ Founder & CTO, [TechTide AI](https://techtideai.io) · Columbus, OH
 
 | Product | What it is |
 | :--- | :--- |
-| [**Persyn.ai**](https://persyn.ai) | AI persona content platform. Identity-first HeyGen alternative. Co-founded with Anette Benson. |
+| [**Persyn.ai**](https://persyn.ai) | AI persona content platform. Identity-first HeyGen alternative. Co-builder. |
 | [**ClawLi.ai**](https://clawli.ai) | LinkedIn CRM with agent-driven outreach and pipeline management. |
 | [**FigGlow.ai**](https://figglow.ai) | Carousel SaaS for social content at scale. Co-founded with Shane Spencer. |
 
