@@ -6,7 +6,9 @@
 
 # Alex Cinovoj
 
-**I take blocked Claude initiatives to production.**
+**I build control planes for AI agents.**
+
+Policy gates, approval workflows, immutable audit, and eval harnesses — the deterministic layer that makes autonomous systems deployable.
 
 Founder & CTO, [TechTide AI](https://techtideai.io) · Columbus, OH
 
@@ -18,76 +20,70 @@ Founder & CTO, [TechTide AI](https://techtideai.io) · Columbus, OH
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
+Most agent failures aren't model failures — they're governance failures. I design the enforcement layer that sits between an agent and anything that matters: deterministic policy engines with zero LLM calls in the decision path, human-in-the-loop approval gates, database-enforced immutable audit logs, and eval harnesses that treat policy regressions as build breaks. If a system can't show you a log, it isn't governed.
+
 <div align="center">
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-111827?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
-![Lovable](https://img.shields.io/badge/Lovable-111827?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
 
 </div>
 
 <div align="center">
 
 ![Anthropic Academy](https://img.shields.io/badge/Anthropic_Academy-9×_Certified-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-Senior_Champion-EC4899?style=flat-square)
-![Automation Vibes](https://img.shields.io/badge/Automation_Vibes-Co--Host-7C3AED?style=flat-square)
 ![Worker Nodes](https://img.shields.io/badge/Worker_Nodes-50+_in_Production-16a34a?style=flat-square)
-![Favikon](https://img.shields.io/badge/Favikon_Nov_2025-Top_5_AI_Education-3B82F6?style=flat-square)
+![Enterprise IT](https://img.shields.io/badge/US_Enterprise_IT-13_Years-3B82F6?style=flat-square)
 
 </div>
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
-## Production work
+## Featured projects
 
-### Active products
-
-| Product | What it is |
+| Project | What it governs |
 | :--- | :--- |
-| [**ClawLi.ai**](https://clawli.ai) | LinkedIn CRM with agent-driven outreach and pipeline management. |
-| [**FigGlow.ai**](https://figglow.ai) | Carousel SaaS for social content at scale. Co-founded with Shane Spencer. |
-
-### Open source
-
-| Repo | What it does |
-| :--- | :--- |
-| [**TechTide Swarm 357**](https://github.com/Alexi5000/TechTideAI2) | Multi-agent orchestrator. CEO + domain leads + specialized workers as a digital workforce. |
-| [**Bri**](https://github.com/Alexi5000/Bri) | Video intelligence agent. Streamlit, FastAPI MCP, SQLite durability, multimodal ML. |
-| [**Ellie**](https://github.com/Alexi5000/Ellie) | AI video analysis agent. Upload video, ask anything. Gemini 2.5 Flash + Whisper + React 19. |
-| [**WildScape-Europe**](https://github.com/Alexi5000/WildScape-Europe) | European wildlife tracking and conservation data platform. |
-| [**FintheFinder**](https://github.com/Alexi5000/FintheFinder) | Deep research assistant. Multi-agent web search, source evaluation, report generation. |
-| [**ClawKeeper**](https://github.com/Alexi5000/ClawKeeper) | 110 TypeScript agents for SMB finance. Invoices, reconciliation, compliance, approval-gated execution. |
-| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | OpenClaw debug agent. Traces causes, profiles behavior, predicts failures. Zero deps. |
+| [**ClawKeeper**](https://github.com/Alexi5000/ClawKeeper) | Agent finance platform where a deterministic policy engine runs tenant, capability, and approval checks **before any LLM call**. Payments default to $0 autonomous spend, and the audit log is immutable at the database layer — `UPDATE` or `DELETE` raises an exception. |
+| [**techtide-harness-kit**](https://github.com/TechTideOhio/techtide-harness-kit) | Trust contracts as JSON Schema: every skill declares its risk tier, tool permissions, deny-by-default network egress, approval gates, and compliance control mappings. Ships a prompt-injection threat model with adversarial fixtures, enforced by ~28 CI validation gates. |
+| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | Multi-agent debugger with **zero LLM calls in the analysis path** — causal graphs, weighted root-cause scoring, and failure prediction you can't prompt-inject. 206 zero-mock tests, zero runtime dependencies, no network egress. |
+| [**swarm-357**](https://github.com/TechTideOhio/swarm-357) | 357-agent orchestrator governed by per-agent budget caps, a pattern-matched bash security gate, layer-level daily budgets with automatic model downgrade, a hard per-run spend ceiling, and correlation-ID structured telemetry. |
+| **agentrewind** · private | Time-travel debugging for agent traces: zero-trust import parsing (signature verification, size clamps, sanitization), five trace formats auto-detected, and a divergence/latency/token diff engine for side-by-side replay. |
+| [**FintheFinder**](https://github.com/Alexi5000/FintheFinder) | Deep-research agent with a real human-in-the-loop approval workflow — the run suspends until a human approves — and a deterministic citation audit with zero AI in the verification path. |
+| **Molten** · private | Governed agent runtime: kill switch with cost and error auto-triggers, circuit breakers, a four-tier execution sandbox (read-only → admin), hard daily and per-task budget caps, and a dead-man's switch. |
+| [**TechTideAI2**](https://github.com/Alexi5000/TechTideAI2) | Company-scale agent platform on a three-plane architecture — control, data, and evidence. Status transitions run through an explicit state machine, execution has a hard timeout, and changes are graded by an adversarial eval harness with a 33-task golden suite. |
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 ## Manifesto
 
 ```
-Systems over hacks.
-Proof over potential.
-Embedded agents over flashy demos.
+Logs over vibes.
+Production over theater.
+Deny by default.
 ```
 
-If your automation cannot show a log, it is not automation — it is theater.
+The trustworthy part of an agent system is the part with no AI in it. Policy checks, budget ceilings, audit trails, and approval gates should be boring, deterministic functions — because you can't prompt-inject a function.
 
-50% of AI pilots fail at the org layer. We rescue the half worth saving and refuse the rest.
+<img src="assets/divider_thin.png" alt="" width="100%" />
+
+## Pre-2026 governance work
+
+The same discipline, before it had a name: production marketplace infrastructure with idempotent payment webhooks, forward-only migrations, end-to-end trace propagation into an ops event log, and ten pre-written incident runbooks — on top of 13 years in US enterprise IT. Governance isn't a pivot; it's the pattern.
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 ## Shipping now
 
 - **TechTide AI** — client engagements: Production Triage, Workflow Rescue, Fractional FDE
-- **ClawLi.ai** — LinkedIn CRM
-- **TechTide Swarm 357** — multi-agent orchestration framework
+- **techtide-harness-kit** — trust contracts and CI gates for agent skills
+- **swarm-357** — governed multi-agent orchestration
 
 *Updated quarterly.*
 
@@ -96,7 +92,6 @@ If your automation cannot show a log, it is not automation — it is theater.
 ## Podcast & community
 
 - [**Automation Vibes**](https://automationvibes.ai) — podcast + newsletter with Shane Spencer
-- **Lovable Community Discord** — Senior Champion, 10K+ verified edits across 277 active days
 - **Anthropic Partner Network** — services partner
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
@@ -117,5 +112,5 @@ If your automation cannot show a log, it is not automation — it is theater.
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 <div align="center">
-  <sub>50+ concurrent worker nodes in production · 9× Anthropic Academy · 30+ Claude Code skills · Lovable Senior Champion · 13 yrs US enterprise IT</sub>
+  <sub>50+ concurrent worker nodes in production · 9× Anthropic Academy · 13 yrs US enterprise IT · Columbus, OH</sub>
 </div>
