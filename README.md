@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="assets/profile_hero_2026.png" alt="Alex Cinovoj — Founder & CTO, TechTide AI" width="100%" />
-</div>
-
-<div align="center">
-
 # Alex Cinovoj
 
 **I build control planes for AI agents.**
