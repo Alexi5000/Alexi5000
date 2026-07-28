@@ -32,7 +32,7 @@ Most agent failures aren't model failures — they're governance failures. I des
 
 <div align="center">
 
-![Anthropic Academy](https://img.shields.io/badge/Anthropic_Academy-9×_Certified-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic Academy](https://img.shields.io/badge/Anthropic_Academy-9_Courses_Completed-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Worker Nodes](https://img.shields.io/badge/Worker_Nodes-50+_in_Production-16a34a?style=flat-square)
 ![Enterprise IT](https://img.shields.io/badge/US_Enterprise_IT-13_Years-3B82F6?style=flat-square)
 
@@ -92,7 +92,7 @@ The same discipline, before it had a name: production marketplace infrastructure
 
 ## Work with me
 
-**Production Triage available.** Book in the [Featured section on LinkedIn](https://www.linkedin.com/in/alexcinovoj/) or at [techtideai.io](https://techtideai.io).
+**Start with the $1,000 AI Audit** — 90-minute live review, written go/no-go plan in 48 hours — at [techtideai.io/audit](https://techtideai.io/audit). Not ready for the full audit? The $247 Production Block Diagnosis reviews one stuck workflow async. Production Triage and larger engagements available after that; book in the [Featured section on LinkedIn](https://www.linkedin.com/in/alexcinovoj/) or at [techtideai.io](https://techtideai.io).
 
 <div align="center">
 
@@ -106,5 +106,5 @@ The same discipline, before it had a name: production marketplace infrastructure
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 <div align="center">
-  <sub>50+ concurrent worker nodes in production · 9× Anthropic Academy · 13 yrs US enterprise IT · Columbus, OH</sub>
+  <sub>50+ concurrent worker nodes in production · 9 Anthropic Academy course completions · 13 yrs US enterprise IT · Columbus, OH</sub>
 </div>
