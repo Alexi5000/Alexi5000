@@ -4,7 +4,9 @@
 
 Policy gates, approval workflows, immutable audit, and eval harnesses — the deterministic layer that makes autonomous systems deployable.
 
-Founder & CTO, [TechTide AI](https://techtideai.io) · Columbus, OH
+Founder & CTO, TechTide AI · Automation Vibes co-host · 13 years US enterprise IT · Lovable Champion and Lovable beta user for over 1 year · 9 Anthropic Academy course completions
+
+Lovable Champion is an earned Discord community support volunteer role, not a certification.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcinovoj/)
 [![TechTide AI](https://img.shields.io/badge/techtideai.io-0f766e?style=flat-square)](https://techtideai.io)
@@ -40,7 +42,7 @@ Most agent failures aren't model failures — they're governance failures. I des
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
-## Featured projects
+## Open Source
 
 | Project | What it governs |
 | :--- | :--- |
@@ -48,10 +50,15 @@ Most agent failures aren't model failures — they're governance failures. I des
 | [**techtide-harness-kit**](https://github.com/TechTideOhio/techtide-harness-kit) | Trust contracts as JSON Schema: every skill declares its risk tier, tool permissions, deny-by-default network egress, approval gates, and compliance control mappings. Ships a prompt-injection threat model with adversarial fixtures, enforced by ~28 CI validation gates. |
 | [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | Multi-agent debugger with **zero LLM calls in the analysis path** — causal graphs, weighted root-cause scoring, and failure prediction you can't prompt-inject. 206 zero-mock tests, zero runtime dependencies, no network egress. |
 | [**swarm-357**](https://github.com/TechTideOhio/swarm-357) | 357-agent orchestrator governed by per-agent budget caps, a pattern-matched bash security gate, layer-level daily budgets with automatic model downgrade, a hard per-run spend ceiling, and correlation-ID structured telemetry. |
-| **agentrewind** · private | Time-travel debugging for agent traces: zero-trust import parsing (signature verification, size clamps, sanitization), five trace formats auto-detected, and a divergence/latency/token diff engine for side-by-side replay. |
 | [**FintheFinder**](https://github.com/Alexi5000/FintheFinder) | Deep-research agent with a real human-in-the-loop approval workflow — the run suspends until a human approves — and a deterministic citation audit with zero AI in the verification path. |
-| **Molten** · private | Governed agent runtime: kill switch with cost and error auto-triggers, circuit breakers, a four-tier execution sandbox (read-only → admin), hard daily and per-task budget caps, and a dead-man's switch. |
 | [**TechTideAI2**](https://github.com/Alexi5000/TechTideAI2) | Company-scale agent platform on a three-plane architecture — control, data, and evidence. Status transitions run through an explicit state machine, execution has a hard timeout, and changes are graded by an adversarial eval harness with a 33-task golden suite. |
+
+## Product Builds
+
+| Product | What it does | Tags |
+| :--- | :--- | :--- |
+| [**Y2KSelfie.ai**](https://y2kselfie.ai) | An AI photo experience that transforms modern selfies into nostalgic Y2K-era portraits. | AI imaging · consumer web app |
+| [**Ship With Bob**](https://shipwithbob.com) | A voice-first task manager that turns a spoken brain dump into small, prioritized jobs so users can decide what to do now, next, and later. | Voice AI · productivity PWA |
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
