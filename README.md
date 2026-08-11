@@ -59,6 +59,8 @@ Most agent failures aren't model failures — they're governance failures. I des
 | :--- | :--- | :--- |
 | [**Y2KSelfie.ai**](https://y2kselfie.ai) | An AI photo experience that transforms modern selfies into nostalgic Y2K-era portraits. | AI imaging · consumer web app |
 | [**Ship With Bob**](https://shipwithbob.com) | A voice-first task manager that turns a spoken brain dump into small, prioritized jobs so users can decide what to do now, next, and later. | Voice AI · productivity PWA |
+| [**Syncra**](https://syncra.us) | An interactive law-firm operations portal demonstrating AI-assisted document intake, classification, routing, approvals, and role-based workflows. Proposal demo built for a California law firm. | Legal tech · AI workflow portal |
+| [**Clawli**](https://clawli.ai) | A multi-agent LinkedIn workspace that turns content strategy into researched, reviewed, and approval-gated posts. | Multi-agent AI · LinkedIn operations |
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
