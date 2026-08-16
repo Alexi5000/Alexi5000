@@ -1,0 +1,17 @@
+{
+  "name": "alexi5000-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Source repository for the Alexi5000 GitHub profile.",
+  "type": "module",
+  "scripts": {
+    "build": "node --test tests/profile-contract.test.mjs",
+    "lint": "node --test tests/profile-contract.test.mjs",
+    "typecheck": "node --check tests/profile-contract.test.mjs",
+    "test": "node --test",
+    "test:smoke": "node --test tests/profile-contract.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

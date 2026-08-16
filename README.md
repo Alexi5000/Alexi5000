@@ -16,6 +16,26 @@ Lovable Champion is an earned Discord community support volunteer role, not a ce
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
+## Purpose and use cases
+
+This repository is the source for the **Alexi5000 GitHub profile**. It presents current open-source work, product builds, and the operating principles behind governed AI systems. Use it when you need an accurate public overview of the projects, the design philosophy behind them, or the right route for collaboration and technical questions.
+
+## Maintainer quickstart
+
+The profile is a Markdown-and-assets repository with a dependency-free Node verification contract. Use **Node.js 22 or newer** to validate a change before publishing it.
+
+```bash
+git clone https://github.com/Alexi5000/Alexi5000.git
+cd Alexi5000
+npm ci
+npm run build
+npm run lint
+npm run typecheck
+npm run test
+```
+
+`npm run build`, `npm run lint`, and `npm run test` validate the profile contract: public identity, quickstart and support routes, and the presence of every local asset referenced by the README. Keep the profile concise, publish only intentionally public information, and add any new local visual file under `assets/`.
+
 Most agent failures aren't model failures — they're governance failures. I design the enforcement layer that sits between an agent and anything that matters: deterministic policy engines with zero LLM calls in the decision path, human-in-the-loop approval gates, database-enforced immutable audit logs, and eval harnesses that treat policy regressions as build breaks. If a system can't show you a log, it isn't governed.
 
 <div align="center">
@@ -99,6 +119,10 @@ The same discipline, before it had a name: production marketplace infrastructure
 - **Anthropic Partner Network** — services partner
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
+
+## Support and contact
+
+For a project question, collaboration inquiry, or a correction to this public profile, start at [techtideai.io](https://techtideai.io) or email [alex@techtideai.io](mailto:alex@techtideai.io). Do not send credentials, customer records, private repository material, or security-sensitive reports through public GitHub discussions.
 
 ## Work with me
 
