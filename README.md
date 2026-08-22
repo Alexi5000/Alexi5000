@@ -6,8 +6,6 @@ Policy gates, approval workflows, immutable audit, and eval harnesses — the de
 
 Founder & CTO, TechTide AI · Automation Vibes co-host · 13 years US enterprise IT · Lovable Champion and Lovable beta user for over 1 year · 9 Anthropic Academy course completions
 
-Lovable Champion is an earned Discord community support volunteer role, not a certification.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcinovoj/)
 [![TechTide AI](https://img.shields.io/badge/techtideai.io-0f766e?style=flat-square)](https://techtideai.io)
 [![alexcinovoj.com](https://img.shields.io/badge/alexcinovoj.com-111827?style=flat-square&logo=safari&logoColor=white)](https://alexcinovoj.com)
