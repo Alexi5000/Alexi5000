@@ -75,11 +75,12 @@ Most agent failures aren't model failures — they're governance failures. I des
 
 | Product | What it does | Tags |
 | :--- | :--- | :--- |
-| [**Y2KSelfie.ai**](https://y2kselfie.ai) | An AI photo experience that transforms modern selfies into nostalgic Y2K-era portraits. | AI imaging · consumer web app |
-| [**Ship With Bob**](https://shipwithbob.com) | A voice-first task manager that turns a spoken brain dump into small, prioritized jobs so users can decide what to do now, next, and later. | Voice AI · productivity PWA |
-| [**Syncra**](https://syncra.us) | An interactive law-firm operations portal demonstrating AI-assisted document intake, classification, routing, approvals, and role-based workflows. Proposal demo built for a California law firm. | Legal tech · AI workflow portal |
+| [**Y2KSelfie.ai**](https://y2kselfie.ai) | An AI photo experience that transforms modern selfies into nostalgic Y2K-era portraits. | AI imaging · Consumer web app |
+| [**Ship With Bob**](https://shipwithbob.com) | A voice-first task manager that turns a spoken brain dump into small, prioritized jobs so users can decide what to do now, next, and later. | Voice AI · Productivity PWA |
+| [**Syncra**](https://syncra.us) | An interactive law-firm operations portal demonstrating AI-assisted document intake, classification, routing, approvals, and role-based workflows. Proposal demo built for a California law firm. | Legal tech · AI workflow portal · Proposal demo |
 | [**Clawli**](https://clawli.ai) | A multi-agent LinkedIn workspace that turns content strategy into researched, reviewed, and approval-gated posts. | Multi-agent AI · LinkedIn operations |
-| [**Buckeye DataCom**](https://buckeyedatacom.lovable.app) | A client website for a Central Ohio low-voltage contractor, presenting fiber, structured cabling, and enterprise network services. | Client website · fiber & low-voltage · Central Ohio |
+| [**Buckeye DataCom**](https://buckeyedatacom.lovable.app) | A client website built for a Central Ohio low-voltage contractor, presenting fiber, structured cabling, and enterprise network services. | Client delivery · Service-business website · Central Ohio |
+| [**Midwest Thunder**](https://mt.lovable.app) | A client-facing equestrian event experience built for an Iowa organization, bringing season schedules, ticket choices, venue information, and visitor navigation into one cohesive digital product. | Client portal · Event experience · Iowa |
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
