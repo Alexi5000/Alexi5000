@@ -6,6 +6,8 @@ Policy gates, approval workflows, immutable audit, and eval harnesses — the de
 
 Founder & CTO, TechTide AI · Automation Vibes co-host · 13 years US enterprise IT · Lovable Champion and Lovable beta user for over 1 year · 9 Anthropic Academy course completions
 
+Lovable Champion is an earned Discord community support volunteer role, not a certification.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcinovoj/)
 [![TechTide AI](https://img.shields.io/badge/techtideai.io-0f766e?style=flat-square)](https://techtideai.io)
 [![alexcinovoj.com](https://img.shields.io/badge/alexcinovoj.com-111827?style=flat-square&logo=safari&logoColor=white)](https://alexcinovoj.com)
@@ -66,7 +68,6 @@ Most agent failures aren't model failures — they're governance failures. I des
 <div align="center">
 
 ![Anthropic Academy](https://img.shields.io/badge/Anthropic_Academy-9_Courses_Completed-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Worker Nodes](https://img.shields.io/badge/Worker_Nodes-50+_in_Production-16a34a?style=flat-square)
 ![Enterprise IT](https://img.shields.io/badge/US_Enterprise_IT-13_Years-3B82F6?style=flat-square)
 
 </div>
@@ -128,7 +129,6 @@ The same discipline, before it had a name: production marketplace infrastructure
 ## Podcast & community
 
 - [**Automation Vibes**](https://automationvibes.ai) — podcast + newsletter with Shane Spencer
-- **Anthropic Partner Network** — services partner
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
@@ -138,7 +138,7 @@ For a project question, collaboration inquiry, or a correction to this public pr
 
 ## Work with me
 
-For an AI workflow review, start with the [Systems Decision Audit](https://techtideai.io/ai-production-systems). For an Airtable system, see the [Airtable Exit Sprint](https://techtideai.io/airtable-exit). TechTide lists current scope and pricing; implementation follows an agreed scope.
+For an AI workflow review, start with the [Systems Decision Audit](https://techtideai.io/ai-production-systems). For an Airtable system, see the [Airtable Rescue Decision Sprint](https://techtideai.io/airtable-exit). TechTide lists current scope and pricing; implementation follows an agreed scope.
 
 <div align="center">
 
@@ -152,5 +152,5 @@ For an AI workflow review, start with the [Systems Decision Audit](https://techt
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 <div align="center">
-  <sub>50+ concurrent worker nodes in production · 9 Anthropic Academy course completions · 13 yrs US enterprise IT · Columbus, OH</sub>
+  <sub>9 Anthropic Academy course completions · 13 yrs US enterprise IT · Columbus, OH</sub>
 </div>
