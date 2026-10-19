@@ -16,6 +16,19 @@ Lovable Champion is an earned Discord community support volunteer role, not a ce
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
+## Featured projects
+
+| Project | What it does | Status |
+| :--- | :--- | :--- |
+| [**Abodra**](https://abodra.ai) | Building-design software for exploring a property project and preparing a builder handoff. | In development |
+| [**ShipReady**](https://shipreadyai.dev) | A launch-check tool for AI-built apps. It separates findings from declared information and checks that still need a person. | Product · Scan verification pending |
+| [**AssetForge 3D**](https://assetforge3d.lovable.app) | A workspace for creating and refining 3D assets from prompts and reference images. | Beta candidate |
+| [**CipherClaw**](https://cipherclaw.com) | An open-source toolkit for investigating recorded multi-agent runs. | Open-source engineering project |
+
+These are product and engineering projects. Their listings do not imply customer results or a completed launch review.
+
+[**Visit the TechTideAI Office**](https://ttoffice.lovable.app): a walkable 3D studio and gallery. Staff activity is simulated.
+
 ## Purpose and use cases
 
 This repository is the source for the **Alexi5000 GitHub profile**. It presents current open-source work, product builds, and the operating principles behind governed AI systems. Use it when you need an accurate public overview of the projects, the design philosophy behind them, or the right route for collaboration and technical questions.
@@ -61,18 +74,18 @@ Most agent failures aren't model failures — they're governance failures. I des
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
-## Open Source
+## More open-source work
 
 | Project | What it governs |
 | :--- | :--- |
 | [**ClawKeeper**](https://github.com/Alexi5000/ClawKeeper) | Agent finance platform where a deterministic policy engine runs tenant, capability, and approval checks **before any LLM call**. Payments default to $0 autonomous spend, and the audit log is immutable at the database layer — `UPDATE` or `DELETE` raises an exception. |
 | [**techtide-harness-kit**](https://github.com/TechTideOhio/techtide-harness-kit) | Trust contracts as JSON Schema: every skill declares its risk tier, tool permissions, deny-by-default network egress, approval gates, and compliance control mappings. Ships a prompt-injection threat model with adversarial fixtures, enforced by ~28 CI validation gates. |
-| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | Multi-agent debugger with **zero LLM calls in the analysis path** — causal graphs, weighted root-cause scoring, and failure prediction you can't prompt-inject. 206 zero-mock tests, zero runtime dependencies, no network egress. |
+| [**CipherClaw**](https://github.com/Alexi5000/CipherClaw) | Multi-agent debugger with **zero LLM calls in the analysis path** — causal graphs, weighted root-cause scoring, and failure prediction you can't prompt-inject. Inspect the repository for current tests and implementation limits. |
 | [**swarm-357**](https://github.com/TechTideOhio/swarm-357) | 357-agent orchestrator governed by per-agent budget caps, a pattern-matched bash security gate, layer-level daily budgets with automatic model downgrade, a hard per-run spend ceiling, and correlation-ID structured telemetry. |
 | [**FintheFinder**](https://github.com/Alexi5000/FintheFinder) | Deep-research agent with a real human-in-the-loop approval workflow — the run suspends until a human approves — and a deterministic citation audit with zero AI in the verification path. |
 | [**TechTideAI2**](https://github.com/Alexi5000/TechTideAI2) | Company-scale agent platform on a three-plane architecture — control, data, and evidence. Status transitions run through an explicit state machine, execution has a hard timeout, and changes are graded by an adversarial eval harness with a 33-task golden suite. |
 
-## Product Builds
+## More products and experiments
 
 | Product | What it does | Tags |
 | :--- | :--- | :--- |
@@ -105,7 +118,7 @@ The same discipline, before it had a name: production marketplace infrastructure
 
 ## Shipping now
 
-- **TechTide AI** — AI Production Systems and Airtable Exit/Rescue decision engagements
+- **TechTide AI**: Systems Decision Audit, Airtable Exit Sprint, and scoped Critical System Implementation
 - **techtide-harness-kit** — trust contracts and CI gates for agent skills
 - **swarm-357** — governed multi-agent orchestration
 
@@ -125,12 +138,7 @@ For a project question, collaboration inquiry, or a correction to this public pr
 
 ## Work with me
 
-Start with one paid decision engagement:
-
-- [**Production Block Call, $250**](https://techtideai.io/production-block-call) — one named blocker and one 60-minute decision call; it does not promise a fix.
-- [**Systems Decision Audit, $1,000**](https://techtideai.io/ai-production-systems) — an evidence-backed ship, fix, redesign, or stop decision for one AI workflow; production implementation is separate.
-- [**Airtable Rescue Decision Sprint, $2,500**](https://techtideai.io/airtable-exit) — a stay, stabilize, hybrid, or exit decision for one Airtable system; nothing is migrated during the sprint.
-- [**Critical System Implementation, $10,000–$25,000**](https://techtideai.io/critical-system-implementation) — application-only implementation of one approved decision boundary.
+For an AI workflow review, start with the [Systems Decision Audit](https://techtideai.io/ai-production-systems). For an Airtable system, see the [Airtable Rescue Decision Sprint](https://techtideai.io/airtable-exit). TechTide lists current scope and pricing; implementation follows an agreed scope.
 
 <div align="center">
 

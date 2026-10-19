@@ -24,7 +24,8 @@ test("profile README provides purpose, use-case, and support routes", () => {
   assert.match(readme, /GitHub profile/);
   assert.match(readme, /^## Support and contact$/m);
   assert.match(readme, /mailto:alex@techtideai\.io/);
-  assert.match(readme, /https:\/\/techtideai\.io/);
+  const destinations = [...readme.matchAll(/\]\((https?:\/\/[^)]+)\)/g)].map((match) => new URL(match[1]));
+  assert.ok(destinations.some((url) => url.origin === "https://techtideai.io"));
 });
 
 test("repository support and governance paths are present", () => {
