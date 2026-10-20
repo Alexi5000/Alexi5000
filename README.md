@@ -72,6 +72,8 @@ npm run test
 
 </div>
 
+<img src="assets/divider_thin.png" alt="" width="100%" />
+
 ## More open-source work
 
 Every public repository under [Alexi5000](https://github.com/Alexi5000) and [TechTideOhio](https://github.com/TechTideOhio), each listed once. Descriptions follow each repository's own README tagline as of 2026-10-20. Forks are marked with their upstream.
@@ -131,6 +133,8 @@ Every public repository under [Alexi5000](https://github.com/Alexi5000) and [Tec
 | [**Buckeye DataCom**](https://buckeyedatacom.lovable.app) | A client website built for a Central Ohio low-voltage contractor, presenting fiber, structured cabling, and enterprise network services. | Client delivery · Service-business website · Central Ohio |
 | [**Midwest Thunder**](https://mt.lovable.app) | A client-facing equestrian event experience built for an Iowa organization, bringing season schedules, ticket choices, venue information, and visitor navigation into one cohesive digital product. | Client portal · Event experience · Iowa |
 
+<img src="assets/divider_thin.png" alt="" width="100%" />
+
 ## Manifesto
 
 ```
@@ -154,6 +158,8 @@ The same discipline, before it had a name: production marketplace infrastructure
 - **swarm-357**: governed multi-agent orchestration
 
 *Last reviewed 2026-10-20.*
+
+<img src="assets/divider_thin.png" alt="" width="100%" />
 
 ## Podcast & community
 
