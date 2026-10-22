@@ -10,7 +10,7 @@ const readme = readFileSync(readmePath, "utf8");
 
 test("profile README preserves its public identity and maintainer quickstart", () => {
   assert.match(readme, /^# Alex Cinovoj$/m);
-  assert.match(readme, /\*\*I build control planes for AI agents\.\*\*/);
+  assert.match(readme, /\*\*AI & Infra Engineer\. Building AI that survives outside the demo\.\*\*/);
   assert.match(readme, /^## Maintainer quickstart$/m);
   assert.match(readme, /npm ci/);
   assert.match(readme, /npm run build/);

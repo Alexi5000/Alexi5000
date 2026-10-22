@@ -1,12 +1,12 @@
 # Alex Cinovoj
 
-**I build control planes for AI agents.**
+**AI & Infra Engineer. Building AI that survives outside the demo.**
 
 Policy gates, approval workflows, immutable audit, and eval harnesses: the deterministic layer that makes autonomous systems deployable.
 
-Founder & CTO, TechTide AI · Automation Vibes co-host · 13 years US enterprise IT · Lovable Champion and Lovable beta user for over 1 year · 9 Anthropic Academy course completions
+Founder & CTO, TechTide AI · CTO & Co-Founder, CPG Playbook
 
-Lovable Champion is an earned Discord community support volunteer role, not a certification.
+Lovable Senior Champion · 9 Anthropic Academy course completions
 
 <div align="center">
 
@@ -138,8 +138,7 @@ Every public repository under [Alexi5000](https://github.com/Alexi5000) and [Tec
 ## Manifesto
 
 ```
-Logs over vibes.
-Production over theater.
+Logs over vibes. Production over theater.
 Deny by default.
 ```
 
@@ -153,17 +152,19 @@ The same discipline, before it had a name: production marketplace infrastructure
 
 ## Shipping now
 
-- **TechTide AI**: [Systems Decision Audit](https://techtideai.io/ai-production-systems), [Airtable Rescue Decision Sprint](https://techtideai.io/airtable-exit), and scoped Critical System Implementation (application only)
+- **TechTide AI**: [Systems Decision Audit](https://techtideai.io/audit), Custom MCP Server Development, and Production Triage & Implementation
 - **techtide-harness-kit**: trust contracts and CI gates for agent skills
 - **swarm-357**: governed multi-agent orchestration
 
-*Last reviewed 2026-10-20.*
+*Last reviewed 2026-10-22.*
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
 ## Podcast & community
 
-- [**Automation Vibes**](https://automationvibes.ai): weekly podcast and newsletter, hosted by Alex Cinovoj and Shane Spencer
+Logs over Vibes — a new podcast from Alex Cinovoj and Shane Spencer. Coming soon. Season 1 aired as Automation Vibes (2025).
+
+[Season 1 archive](https://automationvibes.ai) · [Substack](https://alexcinovoj.substack.com/)
 
 <img src="assets/divider_thin.png" alt="" width="100%" />
 
@@ -173,7 +174,23 @@ For a project question, collaboration inquiry, or a correction to this public pr
 
 ## Work with me
 
-For an AI workflow review, start with the [Systems Decision Audit](https://techtideai.io/ai-production-systems). For an Airtable system, see the [Airtable Rescue Decision Sprint](https://techtideai.io/airtable-exit). TechTide lists current scope and pricing; implementation follows an agreed scope.
+### Systems Decision Audit — $1,000
+
+A 90-minute live review of one stalled AI workflow: inputs, retrieval, tool permissions, failure handling, security posture. Written verdict within 48 hours — Ship, Fix, Redesign, or Stop. Full fee credited toward implementation if it starts within 30 days.
+
+[Systems Decision Audit](https://techtideai.io/audit)
+
+### Custom MCP Server Development — from $12,000, fixed scope
+
+Securely connect Claude to your internal APIs and data: strict JSON schemas, scoped OAuth boundaries, least-privilege tool permissions, immutable audit logs. Scoped and quoted fixed before work starts.
+
+### Production Triage & Implementation — $10,000–$25,000, fixed scope, application only
+
+Move a stalled AI pilot into production: deterministic policy engines, human-in-the-loop approval gates, observability, rollback rehearsals. Fixed scope, fixed price, application only.
+
+[TechTide AI](https://techtideai.io)
+
+[LinkedIn](https://linkedin.com/in/alexcinovoj) · [X](https://x.com/AlexCinovoj) · [Substack](https://alexcinovoj.substack.com/) · [GitHub](https://github.com/Alexi5000)
 
 <div align="center">
 
