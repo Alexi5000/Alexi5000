@@ -20,7 +20,7 @@ test("profile retains identity, implementation contact, and maintainer guidance"
 });
 
 test("profile preserves selected work and removes retired service pitches", () => {
-  for (const project of ["CPG Playbook", "ShipReady", "Abodra", "mpxa.com", "CipherClaw"]) {
+  for (const project of ["CPG Playbook", "ShipReady", "Abodra", "npx8.com", "CipherClaw"]) {
     assert.ok(readme.includes(project));
   }
   assert.doesNotMatch(readme, /Systems Decision Audit|Custom MCP Server Development|Production Triage & Implementation|AssetForge/i);

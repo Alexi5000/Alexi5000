@@ -15,7 +15,7 @@ Founder & CTO, TechTide AI · CTO & Co-Founder, CPG Playbook
 | CPG Playbook | My work as CTO & Co-Founder. |
 | [ShipReady](https://shipreadyai.dev) | A launch-check tool for AI-built apps. |
 | [Abodra](https://abodra.ai) | Building-design software for exploring a property project. |
-| [mpxa.com](https://mpxa.com) | A 3D asset studio. |
+| [npx8.com](https://npx8.com) | A 3D asset studio. |
 | [CipherClaw](https://github.com/Alexi5000/CipherClaw) | An open-source toolkit for investigating multi-agent runs. |
 
 Independent products and open-source work are separate from client results. More projects are in my [repositories](https://github.com/Alexi5000?tab=repositories).
