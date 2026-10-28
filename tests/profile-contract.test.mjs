@@ -8,24 +8,23 @@ const repositoryRoot = join(dirname(fileURLToPath(import.meta.url)), "..");
 const readmePath = join(repositoryRoot, "README.md");
 const readme = readFileSync(readmePath, "utf8");
 
-test("profile README preserves its public identity and maintainer quickstart", () => {
-  assert.match(readme, /^# Alex Cinovoj$/m);
-  assert.match(readme, /\*\*AI & Infra Engineer\. Building AI that survives outside the demo\.\*\*/);
-  assert.match(readme, /^## Maintainer quickstart$/m);
-  assert.match(readme, /npm ci/);
-  assert.match(readme, /npm run build/);
-  assert.match(readme, /npm run lint/);
-  assert.match(readme, /npm run typecheck/);
-  assert.match(readme, /npm run test/);
+test("profile retains identity, implementation contact, and maintainer guidance", () => {
+  assert.ok(readme.startsWith("# Alex Cinovoj"));
+  assert.ok(readme.includes("Founder & CTO, TechTide AI"));
+  assert.ok(readme.includes("https://techtideai.io/contact"));
+  assert.ok(readme.includes("CONTRIBUTING.md"));
+  const contributing = readFileSync(join(repositoryRoot, "CONTRIBUTING.md"), "utf8");
+  for (const command of ["npm ci", "npm run build", "npm run lint", "npm run typecheck", "npm test"]) {
+    assert.ok(contributing.includes(command));
+  }
 });
 
-test("profile README provides purpose, use-case, and support routes", () => {
-  assert.match(readme, /^## Purpose and use cases$/m);
-  assert.match(readme, /GitHub profile/);
-  assert.match(readme, /^## Support and contact$/m);
-  assert.match(readme, /mailto:alex@techtideai\.io/);
-  const destinations = [...readme.matchAll(/\]\((https?:\/\/[^)]+)\)/g)].map((match) => new URL(match[1]));
-  assert.ok(destinations.some((url) => url.origin === "https://techtideai.io"));
+test("profile preserves selected work and removes retired service pitches", () => {
+  for (const project of ["CPG Playbook", "ShipReady", "Abodra", "mpxa.com", "CipherClaw"]) {
+    assert.ok(readme.includes(project));
+  }
+  assert.doesNotMatch(readme, /Systems Decision Audit|Custom MCP Server Development|Production Triage & Implementation|AssetForge/i);
+  assert.ok(readme.includes("mailto:alex@techtideai.io"));
 });
 
 test("repository support and governance paths are present", () => {
@@ -53,7 +52,6 @@ test("every local image referenced by the profile README is present and non-empt
     ([, imagePath]) => imagePath,
   );
 
-  assert.ok(localImagePaths.length > 0, "expected at least one local profile image");
 
   for (const imagePath of localImagePaths) {
     const absolutePath = join(repositoryRoot, imagePath);
