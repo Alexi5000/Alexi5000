@@ -26,9 +26,9 @@ I keep permissions narrow, make failures visible, and document how to operate wh
 
 ## Background & community
 
-Founder & CTO, TechTide AI · CTO & Co-Founder, CPG Playbook
+Founder & CTO, [TechTide AI](https://techtideai.io) · CTO & Co-Founder, CPG Playbook
 
-I also support developer communities as a Lovable Senior Champion and Ambassador, and a Discord moderator at TypeSafe AI.
+I also support developer communities as a [Lovable](https://github.com/lovablelabs) Senior Champion and Ambassador, and a Discord moderator at [TypeSafe AI](https://github.com/typesafe-ai).
 
 [Work with me](https://techtideai.io/contact) · [Email](mailto:alex@techtideai.io)
 
