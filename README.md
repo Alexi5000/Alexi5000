@@ -1,5 +1,7 @@
 # Alex Cinovoj
 
+[![A terminal riding a tide: Alex. Build. Ship. TechTide AI.](assets/terminal-tide.svg)](https://alexcinovoj.dev)
+
 AI & Infra Engineer. Building AI that survives outside the demo.
 
 I build AI integrations, agent tooling, and workflow automation. My background is 13 years in US enterprise IT, including MSP work, systems engineering, and cloud infrastructure. That experience shapes how I approach automation: permissions, failure handling, and a clear path to recovery.
