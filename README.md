@@ -1,6 +1,6 @@
 # Alex Cinovoj
 
-[![A terminal riding a tide: Alex. Build. Ship. TechTide AI.](assets/terminal-tide.svg)](https://alexcinovoj.dev)
+[![A terminal riding a tide: Alex. Build. Ship. TechTide AI.](assets/terminal-tide.gif)](https://alexcinovoj.dev)
 
 AI & Infra Engineer. Building AI that survives outside the demo.
 
