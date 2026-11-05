@@ -16,11 +16,35 @@ I build AI integrations, agent tooling, and workflow automation. My background i
 
 ## Selected open source
 
-**[ClawKeeper](https://github.com/Alexi5000/ClawKeeper)**  
-An agent control plane built around policy checks, spending controls, and audit logs.
+**[Binnacle](https://github.com/TechTideOhio/binnacle)**  
+Unified, zero-FFI, pure-Rust evaluator agent orchestrating the 15-tool TideOS evaluation stack across autonomous coding agents.
 
-**[CipherClaw](https://github.com/Alexi5000/CipherClaw)**  
-A TypeScript toolkit for investigating multi-agent runs, tracing errors, and inspecting failure paths.
+<details>
+<summary><b>The TideOS 15-Tool Eval Stack</b> (click to expand)</summary>
+
+| Step | Engine | Focus |
+|---|---|---|
+| 01 | [reval](https://github.com/TechTideOhio/reval) | Error analysis & causal Bayesian trace DAGs |
+| 02 | [gild](https://github.com/TechTideOhio/gild) | Stratified golden dataset authoring & lockfiles |
+| 03 | [tessel](https://github.com/TechTideOhio/tessel) | Synthetic covering arrays ($P \times I \times C \times E$) |
+| 04 | [assay](https://github.com/TechTideOhio/assay) | Deterministic assertions & pure-Rust DB/RLS |
+| 05 | [tide-rill](https://github.com/TechTideOhio/tide-rill) | Retrieval vs generation & faithfulness gating |
+| 06 | [keel](https://github.com/TechTideOhio/keel) | Trajectory scoring & 14-step cost/latency bug detection |
+| 07 | [temper](https://github.com/TechTideOhio/temper) | pass@k vs pass^k multi-trial reliability |
+| 08 | [parley](https://github.com/TechTideOhio/parley) | Multi-turn simulated users & sycophancy tests |
+| 09 | [gavel](https://github.com/TechTideOhio/gavel) | LLM judge calibration & Rogan-Gladen debiasing |
+| 10 | [poise](https://github.com/TechTideOhio/poise) | Double-blind order-swapped pairwise adjudication |
+| 11 | [plumb](https://github.com/TechTideOhio/plumb) | SplitMix64 bootstrap CIs & exact McNemar tests |
+| 12 | [weir](https://github.com/TechTideOhio/weir) | Fail-closed per-category CI regression gating |
+| 13 | [eddy](https://github.com/TechTideOhio/eddy) | Online production sampling & CUSUM drift alerts |
+| 14 | [tare](https://github.com/TechTideOhio/tare) | CPST (Cost Per Successful Task) & Pareto release gates |
+| 15 | [tether](https://github.com/TechTideOhio/tether) | Failure harvesting, SimHash dedupe & release replay |
+
+</details>
+
+**Agent Control & Diagnostics**  
+- **[ClawKeeper](https://github.com/Alexi5000/ClawKeeper)**: Policy checks, spending limits, and audit logs.  
+- **[CipherClaw](https://github.com/Alexi5000/CipherClaw)**: Multi-agent trace diagnostics and failure investigation.
 
 ## How I work
 
