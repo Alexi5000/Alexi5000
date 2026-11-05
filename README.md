@@ -14,13 +14,18 @@ I build AI integrations, agent tooling, and workflow automation. My background i
 - Workflow automation with human approvals, logs, and recovery paths.
 - TypeScript, Python, React, Supabase, and cloud infrastructure.
 
-## Building
+## Selected open source
 
 - **[Binnacle](https://github.com/TechTideOhio/binnacle)** ![stars](https://img.shields.io/github/stars/TechTideOhio/binnacle?style=flat-square&label=stars&color=e3b341) - Unified, zero-FFI, pure-Rust evaluator agent orchestrating the 15-tool TideOS evaluation stack across autonomous coding agents.
 - **[ClawKeeper](https://github.com/Alexi5000/ClawKeeper)** ![stars](https://img.shields.io/github/stars/Alexi5000/ClawKeeper?style=flat-square&label=stars&color=e3b341) - Agent control plane built around policy checks, spending controls, and audit logs.
 - **[CipherClaw](https://github.com/Alexi5000/CipherClaw)** ![stars](https://img.shields.io/github/stars/Alexi5000/CipherClaw?style=flat-square&label=stars&color=e3b341) - TypeScript toolkit for investigating multi-agent runs, tracing errors, and inspecting failure paths.
 - **[9router OrcaFlow](https://github.com/Alexi5000/9router_OrcaFlow)** ![stars](https://img.shields.io/github/stars/Alexi5000/9router_OrcaFlow?style=flat-square&label=stars&color=e3b341) - AI model routing gateway with security hardening and cloud inference fallbacks.
 - **[Rose](https://github.com/Alexi5000/Rose)** ![stars](https://img.shields.io/github/stars/Alexi5000/Rose?style=flat-square&label=stars&color=e3b341) - Voice-first real-time agent companion with safety boundaries and memory privacy.
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** ![stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&label=stars&color=e3b341) - Audited agent templates for production readiness, dependency hygiene, and fail-closed error handling.
+- **[claude-code-templates](https://github.com/davila7/claude-code-templates)** ![stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&label=stars&color=e3b341) - Hardened loopback listener authentication, credential redaction in diagnostics, and sanitization of pipe-to-shell installer flows.
+- **[9router](https://github.com/decolua/9router)** ![stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&label=stars&color=e3b341) - Upstream routing patches and Cloudflare AI multi-modal reference image forwarding.
+- **[agent-lightning](https://github.com/microsoft/agent-lightning)** ![stars](https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&label=stars&color=e3b341) - Fixed memory leaks by pruning superseded routed experts across multi-turn trajectories.
+- **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** ![stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square&label=stars&color=e3b341) - Evaluated real-time multi-repo agent task board orchestration with Tauri and SPAKE2.
 
 <details>
 <summary><b>The TideOS 15-Tool Eval Stack</b> (click to expand)</summary>
@@ -44,14 +49,6 @@ I build AI integrations, agent tooling, and workflow automation. My background i
 | 15 | [tether](https://github.com/TechTideOhio/tether) ![stars](https://img.shields.io/github/stars/TechTideOhio/tether?style=flat-square&label=stars&color=e3b341) | Failure harvesting, SimHash dedupe & release replay |
 
 </details>
-
-## Contributing to
-
-- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** ![stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&label=stars&color=e3b341) - Audited agent templates for production readiness, dependency hygiene, and fail-closed error handling.
-- **[claude-code-templates](https://github.com/davila7/claude-code-templates)** ![stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&label=stars&color=e3b341) - Hardened loopback listener authentication, credential redaction in diagnostics, and sanitization of pipe-to-shell installer flows.
-- **[9router](https://github.com/decolua/9router)** ![stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&label=stars&color=e3b341) - Upstream routing patches and Cloudflare AI multi-modal reference image forwarding.
-- **[agent-lightning](https://github.com/microsoft/agent-lightning)** ![stars](https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&label=stars&color=e3b341) - Fixed memory leaks by pruning superseded routed experts across multi-turn trajectories.
-- **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** ![stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square&label=stars&color=e3b341) - Evaluated real-time multi-repo agent task board orchestration with Tauri and SPAKE2.
 
 ## How I work
 
