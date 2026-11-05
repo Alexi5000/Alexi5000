@@ -12,7 +12,7 @@ I build AI integrations, agent tooling, and workflow automation. My background i
 
 - AI agents and MCP integrations connected to real business systems.
 - Workflow automation with human approvals, logs, and recovery paths.
-- TypeScript, Python, React, Supabase, and cloud infrastructure.
+- TypeScript, Python, Go, Rust, React, Tailwind, ShadCN, TanStack Start, Supabase, Azure, and cloud infrastructure.
 
 ## Selected open source
 
