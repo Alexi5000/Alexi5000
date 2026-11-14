@@ -26,6 +26,7 @@ I build AI integrations, agent tooling, and workflow automation. My background i
 - **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** ![stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square&label=stars&color=e3b341) - Evaluated real-time multi-repo agent task board orchestration with Tauri and SPAKE2.
 - **[cli-printing-press](https://github.com/mvanhorn/cli-printing-press)** ![stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat-square&label=stars&color=e3b341) - Synced the canonical skill-verification AST walker with nested Cobra command helper traversal to eliminate cross-repo CI drift.
 - **[printing-press-library](https://github.com/mvanhorn/printing-press-library)** ![stars](https://img.shields.io/github/stars/mvanhorn/printing-press-library?style=flat-square&label=stars&color=e3b341) - Fixed SEC EDGAR CLI JSON unmarshaling to accept both integer and zero-padded string CIK payloads across companyfacts, frames, and concept endpoints.
+- **[openclaw](https://github.com/openclaw/openclaw)** ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=stars&color=e3b341) - Fixed workspace-only agents failing to load their own generated images by extending the host media allowlist to include the state directory's media root.
 
 <details>
 <summary><b>The TideOS 15-Tool Eval Stack</b> (click to expand)</summary>
