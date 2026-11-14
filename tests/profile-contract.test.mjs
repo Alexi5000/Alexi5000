@@ -10,7 +10,7 @@ const readme = readFileSync(readmePath, "utf8");
 
 test("profile retains identity, implementation contact, and maintainer guidance", () => {
   assert.ok(readme.startsWith("# Alex Cinovoj"));
-  assert.ok(readme.includes("Founder & CTO, TechTide AI"));
+  assert.ok(readme.includes("Founder & CTO, [TechTide AI]"));
   assert.ok(readme.includes("https://techtideai.io/contact"));
   assert.ok(readme.includes("CONTRIBUTING.md"));
   const contributing = readFileSync(join(repositoryRoot, "CONTRIBUTING.md"), "utf8");
